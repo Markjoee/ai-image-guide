@@ -1,0 +1,1 @@
+User-agent: *\nAllow: /\nSitemap: https://ai-image-guide.markjoe2199.workers.dev/sitemap.xml\n
